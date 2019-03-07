@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "68.183.110.95",
+    "port": 9306,
+    "username": "rankey",
+    "password": "jimbo",
+    "database": "books",
+    "entities": ["src/**/**.entity{.ts,.js}"],
+    "synchronize": true
+}
